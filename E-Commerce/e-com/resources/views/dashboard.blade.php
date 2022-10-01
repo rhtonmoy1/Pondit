@@ -1,5 +1,6 @@
         <x-master>
 
+        <x-slot:title>Dashboard</x-slot>
             <!-- Sale & Revenue Start -->
             <div class="container-fluid pt-4 px-4">
                 <div class="row g-4">

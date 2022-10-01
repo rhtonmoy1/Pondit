@@ -1,6 +1,6 @@
 <x-master>
 
-
+    <x-slot:title>Tables</x-slot>
 
 
             <!-- Table Start -->

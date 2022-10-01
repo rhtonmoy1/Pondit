@@ -28,3 +28,7 @@ Route::get('/dashboard', function () {
 Route::get('/tables', function () {
     return view('tables');
 });
+
+Route::get('/user', function () {
+    return view('user');
+});
